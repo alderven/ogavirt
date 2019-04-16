@@ -8,9 +8,6 @@ Test framework: [pytest](https://docs.pytest.org/en/latest/)
 
 Test report framework: [Yandex Allure](http://allure.qatools.ru/)
 
-Python libs: [requests](http://docs.python-requests.org/en/master/) (for API tests)
-
-
 
 ### API Test Case Steps:
 
@@ -35,24 +32,23 @@ Python libs: [requests](http://docs.python-requests.org/en/master/) (for API tes
 7  | [test_UI.py](https://github.com/alderven/ngti/blob/master/test_UI.py) | Search for "Zabrak" (it should be found)     | [Passed](https://rawcdn.githack.com/alderven/ngti/1e8a53d4bd78708119970efb53cb418ee835eeee/allure-report/index.html#suites/d557be277f93322ae44b8632f35030b4/d1bbf711a41d9f6e/) 
 
 ### How to install
-1. Download and unzip [this project](https://github.com/alderven/ngti/archive/master.zip)
+1. Download and unzip [this project](https://github.com/alderven/ogavirt/archive/master.zip)
 1. Install [Python 3.6 or higher](https://www.python.org/downloads/)
 1. Install following Python libs:
    * [pytest](https://docs.pytest.org/en/latest/)
-   * [selenium](https://selenium-python.readthedocs.io/)
    * [allure-pytest](https://pypi.python.org/pypi/allure-pytest)
-1. Download [ChromeDriver](http://chromedriver.chromium.org/downloads) driver to the project root folder
 1. Install [Allure Framework](https://docs.qameta.io/allure/latest/)
 
 
 ### How to run tests
-Execute following line in CMD in the project folder:
+Execute following command from the the test folder:
 ```
 python -m pytest --alluredir /full/path/to/report/folder
 ```
 
 ### How to generate Allure report
-Execute following line in CMD in the project folder:
+Execute following command:
 ```
 allure serve /full/path/to/report/folder
 ```
+See doc for more details
