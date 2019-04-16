@@ -75,7 +75,7 @@ class TestBookingAvailability:
                 assert room['final_price_at_checkout']['currency'] == json.loads(response.request.body)['currency']
 
     def test14_check_that_amount_is_a_number_equal_or_greater_than_0(self, response):
-        with pytest.allure.step('CCheck, that amount is a number equal or greater than 0'):
+        with pytest.allure.step('Check, that amount is a number equal or greater than 0'):
             for room in response.json()['room_types_array']:
                 assert room['final_price_at_booking']['amount'] >= 0
                 assert room['final_price_at_checkout']['amount'] >= 0
