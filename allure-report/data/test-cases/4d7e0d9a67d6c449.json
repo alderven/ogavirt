@@ -1,0 +1,86 @@
+{
+  "uid" : "4d7e0d9a67d6c449",
+  "name" : "TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response3]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response3]",
+  "historyId" : "39ea2a87237f8c60e03f94731eeb8f19",
+  "time" : {
+    "start" : 1555427848261,
+    "stop" : 1555427848263,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check, that currency is a three-letter code of type string and fits to the requested one",
+      "time" : {
+        "start" : 1555427848261,
+        "stop" : 1555427848262,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response3]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d7e0d9a67d6c449.json",
+  "parameterValues" : [ ]
+}

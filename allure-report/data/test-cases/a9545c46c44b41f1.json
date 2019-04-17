@@ -1,0 +1,86 @@
+{
+  "uid" : "a9545c46c44b41f1",
+  "name" : "TestBookingAvailability.test04_check_dates[response2]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test04_check_dates[response2]",
+  "historyId" : "aace0eb4dc51815618703ea2ed70c039",
+  "time" : {
+    "start" : 1555427848184,
+    "stop" : 1555427848187,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check, that responded date are identical to requested ones",
+      "time" : {
+        "start" : 1555427848185,
+        "stop" : 1555427848186,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test04_check_dates[response2]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9545c46c44b41f1.json",
+  "parameterValues" : [ ]
+}

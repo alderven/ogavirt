@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 1 == 5",
+      "children" : [ {
+        "name" : "TestBookingAvailability.test03_check_api_version[response0]",
+        "uid" : "f3729ae95eb488c7",
+        "parentUid" : "da92636463bbe29c0820e19a5ec486f1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848111,
+          "stop" : 1555427848160,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response1]",
+        "uid" : "6a3c31a0bc625ce",
+        "parentUid" : "da92636463bbe29c0820e19a5ec486f1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848161,
+          "stop" : 1555427848167,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response2]",
+        "uid" : "741c1da53793db52",
+        "parentUid" : "da92636463bbe29c0820e19a5ec486f1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848167,
+          "stop" : 1555427848172,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response3]",
+        "uid" : "c4c3882003477bef",
+        "parentUid" : "da92636463bbe29c0820e19a5ec486f1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848173,
+          "stop" : 1555427848178,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da92636463bbe29c0820e19a5ec486f1"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

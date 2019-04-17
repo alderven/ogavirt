@@ -1,0 +1,793 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AANANYEV-PC",
+    "children" : [ {
+      "name" : "2148-MainThread",
+      "children" : [ {
+        "name" : "TestBookingAvailability.test02_check_that_response_contains_valid_json[response2]",
+        "uid" : "422cad6cb45afd2c",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848107,
+          "stop" : 1555427848109,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response1]",
+        "uid" : "783a7b6f246088b9",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848257,
+          "stop" : 1555427848259,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response0]",
+        "uid" : "cd86ea5f59a8d741",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848255,
+          "stop" : 1555427848256,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test04_check_dates[response0]",
+        "uid" : "50b9b2a9a8af6582",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848179,
+          "stop" : 1555427848181,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test06_check_that_hotel_details_contains_a_name_of_type_string[response1]",
+        "uid" : "65bb2577782a65ad",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848200,
+          "stop" : 1555427848202,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response1]",
+        "uid" : "98a4fe8393eab099",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848265,
+          "stop" : 1555427848267,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test10_check_that_room_types_array_contains_at_least_one_entry[response2]",
+        "uid" : "9639b3756db1ffac",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848234,
+          "stop" : 1555427848237,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test10_check_that_room_types_array_contains_at_least_one_entry[response0]",
+        "uid" : "c1503b7652ae8f1",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848230,
+          "stop" : 1555427848232,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response3]",
+        "uid" : "c4c3882003477bef",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848173,
+          "stop" : 1555427848178,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response3]",
+        "uid" : "6eb4bf5f894c7a5",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848245,
+          "stop" : 1555427848246,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test15_check_that_the_start_date_is_before_the_end_date[response2]",
+        "uid" : "a67149482b2fe4f6",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848279,
+          "stop" : 1555427848281,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test10_check_that_room_types_array_contains_at_least_one_entry[response1]",
+        "uid" : "832f4670f06a420d",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848232,
+          "stop" : 1555427848234,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test09_check_that_hotel_details_contains_a_valid_url[response0]",
+        "uid" : "bc695fe4daac49e3",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848222,
+          "stop" : 1555427848224,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test02_check_that_response_contains_valid_json[response0]",
+        "uid" : "2681308218dd1500",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848102,
+          "stop" : 1555427848104,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test09_check_that_hotel_details_contains_a_valid_url[response3]",
+        "uid" : "a363154c1e2724f5",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848228,
+          "stop" : 1555427848230,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response2]",
+        "uid" : "67ea341e0f85f8d",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848250,
+          "stop" : 1555427848253,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test15_check_that_the_start_date_is_before_the_end_date[response1]",
+        "uid" : "4af96614cc81ab01",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848276,
+          "stop" : 1555427848278,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test08_check_that_hotel_details_contains_a_city_of_type_string[response1]",
+        "uid" : "b48447766858b0a4",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848217,
+          "stop" : 1555427848218,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response2]",
+        "uid" : "a463215a6af6b789",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848267,
+          "stop" : 1555427848268,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test04_check_dates[response3]",
+        "uid" : "937c8201f3b38a88",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848187,
+          "stop" : 1555427848190,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response2]",
+        "uid" : "741c1da53793db52",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848167,
+          "stop" : 1555427848172,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test01_check_that_response_code_is_200[response0]",
+        "uid" : "286cd1c237704093",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848089,
+          "stop" : 1555427848092,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test04_check_dates[response2]",
+        "uid" : "a9545c46c44b41f1",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848184,
+          "stop" : 1555427848187,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test02_check_that_response_contains_valid_json[response3]",
+        "uid" : "c6eb87a696f2ac5d",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848109,
+          "stop" : 1555427848111,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response3]",
+        "uid" : "1cd213d4b770824b",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848213,
+          "stop" : 1555427848214,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response2]",
+        "uid" : "1bf5791874f729ee",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848211,
+          "stop" : 1555427848212,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test01_check_that_response_code_is_200[response2]",
+        "uid" : "1a73b80948980896",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848096,
+          "stop" : 1555427848098,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response0]",
+        "uid" : "e0d63b24532b225c",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848246,
+          "stop" : 1555427848248,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response2]",
+        "uid" : "11535149822b75b5",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848243,
+          "stop" : 1555427848244,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test06_check_that_hotel_details_contains_a_name_of_type_string[response2]",
+        "uid" : "a6f86c5842b3ebc1",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848202,
+          "stop" : 1555427848204,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response3]",
+        "uid" : "4d7e0d9a67d6c449",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848261,
+          "stop" : 1555427848263,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test01_check_that_response_code_is_200[response3]",
+        "uid" : "41f2f19e8a84d801",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848099,
+          "stop" : 1555427848101,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response1]",
+        "uid" : "cdea003accbe8508",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848241,
+          "stop" : 1555427848242,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response1]",
+        "uid" : "5ac5f89a65023aa0",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848209,
+          "stop" : 1555427848210,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test13_check_that_currency_is_a_three_letter_code_of_type_string_and_fits_to_the_requested_one[response2]",
+        "uid" : "99d272b6faa89117",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848259,
+          "stop" : 1555427848261,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response1]",
+        "uid" : "e19eb14465ea0eb0",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848249,
+          "stop" : 1555427848250,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test15_check_that_the_start_date_is_before_the_end_date[response0]",
+        "uid" : "d09000eeff2427e4",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848271,
+          "stop" : 1555427848276,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response1]",
+        "uid" : "6a3c31a0bc625ce",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848161,
+          "stop" : 1555427848167,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test04_check_dates[response1]",
+        "uid" : "736f422b5308024e",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848182,
+          "stop" : 1555427848184,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test06_check_that_hotel_details_contains_a_name_of_type_string[response3]",
+        "uid" : "1f5ecf5cc800770d",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848204,
+          "stop" : 1555427848206,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test01_check_that_response_code_is_200[response1]",
+        "uid" : "47439ea538517277",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848093,
+          "stop" : 1555427848095,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test09_check_that_hotel_details_contains_a_valid_url[response1]",
+        "uid" : "3e4daa6c066b5288",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848224,
+          "stop" : 1555427848226,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test05_check_user_country[response1]",
+        "uid" : "c40320fe60a33e7b",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848192,
+          "stop" : 1555427848194,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test08_check_that_hotel_details_contains_a_city_of_type_string[response0]",
+        "uid" : "5c76675adb80c177",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848215,
+          "stop" : 1555427848216,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test05_check_user_country[response2]",
+        "uid" : "eaac7d3f990d8a99",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848194,
+          "stop" : 1555427848196,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response3]",
+        "uid" : "46e74942c4f8bb49",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848253,
+          "stop" : 1555427848254,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response0]",
+        "uid" : "bf55140a6f81eef",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848207,
+          "stop" : 1555427848208,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test15_check_that_the_start_date_is_before_the_end_date[response3]",
+        "uid" : "d00d71acb512a044",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848282,
+          "stop" : 1555427848284,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test03_check_api_version[response0]",
+        "uid" : "f3729ae95eb488c7",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "failed",
+        "time" : {
+          "start" : 1555427848111,
+          "stop" : 1555427848160,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test05_check_user_country[response0]",
+        "uid" : "87fc99d1afcf9d0f",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848190,
+          "stop" : 1555427848192,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test05_check_user_country[response3]",
+        "uid" : "654a1709c556fe5a",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848196,
+          "stop" : 1555427848198,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test09_check_that_hotel_details_contains_a_valid_url[response2]",
+        "uid" : "b825d0034c57b3bf",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848226,
+          "stop" : 1555427848228,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test06_check_that_hotel_details_contains_a_name_of_type_string[response0]",
+        "uid" : "832bf57dc64d7f77",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848198,
+          "stop" : 1555427848200,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response0]",
+        "uid" : "52af39d4147c8051",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848263,
+          "stop" : 1555427848265,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response0]",
+        "uid" : "85305f4fba41389c",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848239,
+          "stop" : 1555427848240,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test02_check_that_response_contains_valid_json[response1]",
+        "uid" : "5c7745227a3430ca",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848105,
+          "stop" : 1555427848107,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test08_check_that_hotel_details_contains_a_city_of_type_string[response3]",
+        "uid" : "d0450de8f7d072ba",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848221,
+          "stop" : 1555427848222,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test08_check_that_hotel_details_contains_a_city_of_type_string[response2]",
+        "uid" : "261a58b1eb4034ad",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848219,
+          "stop" : 1555427848220,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response3]",
+        "uid" : "f59c98d5a96005d4",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848269,
+          "stop" : 1555427848270,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestBookingAvailability.test10_check_that_room_types_array_contains_at_least_one_entry[response3]",
+        "uid" : "d877dd5e3f3f1081",
+        "parentUid" : "f4079de13809dc0275349792ad554f97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1555427848237,
+          "stop" : 1555427848238,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f4079de13809dc0275349792ad554f97"
+    } ],
+    "uid" : "4d471f2868df438a0daf605a198dcb28"
+  } ]
+}

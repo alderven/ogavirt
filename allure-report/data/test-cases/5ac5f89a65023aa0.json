@@ -1,0 +1,86 @@
+{
+  "uid" : "5ac5f89a65023aa0",
+  "name" : "TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response1]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response1]",
+  "historyId" : "f1754fe6e519883057c58d91437a5268",
+  "time" : {
+    "start" : 1555427848209,
+    "stop" : 1555427848210,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check, that hotel_details contains an address1 of type string",
+      "time" : {
+        "start" : 1555427848209,
+        "stop" : 1555427848210,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test07_check_that_hotel_details_contains_an_address1_of_type_string[response1]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ac5f89a65023aa0.json",
+  "parameterValues" : [ ]
+}

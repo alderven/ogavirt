@@ -1,0 +1,86 @@
+{
+  "uid" : "52af39d4147c8051",
+  "name" : "TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response0]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response0]",
+  "historyId" : "f2263079a1056ee65a7cf87a91fcad0a",
+  "time" : {
+    "start" : 1555427848263,
+    "stop" : 1555427848265,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check, that amount is a number equal or greater than 0",
+      "time" : {
+        "start" : 1555427848264,
+        "stop" : 1555427848264,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test14_check_that_amount_is_a_number_equal_or_greater_than_0[response0]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52af39d4147c8051.json",
+  "parameterValues" : [ ]
+}

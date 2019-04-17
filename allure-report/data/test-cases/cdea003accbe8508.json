@@ -1,0 +1,86 @@
+{
+  "uid" : "cdea003accbe8508",
+  "name" : "TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response1]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response1]",
+  "historyId" : "4953dc978a5c5630f6f8226d1a9f7c43",
+  "time" : {
+    "start" : 1555427848241,
+    "stop" : 1555427848242,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check, that the responded room has a name and its data format is type string with at least 3 letters",
+      "time" : {
+        "start" : 1555427848241,
+        "stop" : 1555427848242,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test11_check_that_responded_room_has_a_name_and_its_data_format_is_type_string_with_at_least_3_letters[response1]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdea003accbe8508.json",
+  "parameterValues" : [ ]
+}

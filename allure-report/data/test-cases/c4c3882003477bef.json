@@ -1,0 +1,95 @@
+{
+  "uid" : "c4c3882003477bef",
+  "name" : "TestBookingAvailability.test03_check_api_version[response3]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test03_check_api_version[response3]",
+  "historyId" : "d282eb4e0b2a556a001f1280322335c",
+  "time" : {
+    "start" : 1555427848173,
+    "stop" : 1555427848178,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 5",
+  "statusTrace" : "self = <test_api_booking_availability.TestBookingAvailability object at 0x0000021A83040E10>\nresponse = <Response [200]>\n\n    def test03_check_api_version(self, response):\n        with pytest.allure.step('Check, that responded API version, is identical to requested one'):\n>           assert json.loads(response.request.body)['api_version'] == response.json()['api_version']\nE           assert 1 == 5\n\ntrivago\\test_api_booking_availability.py:24: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 1 == 5",
+    "statusTrace" : "self = <test_api_booking_availability.TestBookingAvailability object at 0x0000021A83040E10>\nresponse = <Response [200]>\n\n    def test03_check_api_version(self, response):\n        with pytest.allure.step('Check, that responded API version, is identical to requested one'):\n>           assert json.loads(response.request.body)['api_version'] == response.json()['api_version']\nE           assert 1 == 5\n\ntrivago\\test_api_booking_availability.py:24: AssertionError",
+    "steps" : [ {
+      "name" : "Check, that responded API version, is identical to requested one",
+      "time" : {
+        "start" : 1555427848174,
+        "stop" : 1555427848174,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <test_api_booking_availability.TestBookingAvailability object at 0x0000021A83040E10>\nresponse = <Response [200]>\n\n    def test03_check_api_version(self, response):\n        with pytest.allure.step('Check, that responded API version, is identical to requested one'):\n>           assert json.loads(response.request.body)['api_version'] == response.json()['api_version']\nE           assert 1 == 5\n\ntrivago\\test_api_booking_availability.py:24: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test03_check_api_version[response3]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c4c3882003477bef.json",
+  "parameterValues" : [ ]
+}

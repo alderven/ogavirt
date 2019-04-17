@@ -1,0 +1,86 @@
+{
+  "uid" : "67ea341e0f85f8d",
+  "name" : "TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response2]",
+  "fullName" : "test_api_booking_availability.TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response2]",
+  "historyId" : "f5e16514168cf8842e1a789cf6ec39b3",
+  "time" : {
+    "start" : 1555427848250,
+    "stop" : 1555427848253,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check, that the responded room has a final_price_at_booking and/or a final_price_at_checkout",
+      "time" : {
+        "start" : 1555427848251,
+        "stop" : 1555427848253,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Trivago"
+  }, {
+    "name" : "host",
+    "value" : "AANANYEV-PC"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Booking Availability"
+  }, {
+    "name" : "thread",
+    "value" : "2148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testClass",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestBookingAvailability.test12_check_that_responded_room_has_a_final_price_at_booking_and_or_a_final_price_at_checkout[response2]"
+  }, {
+    "name" : "package",
+    "value" : "test_api_booking_availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67ea341e0f85f8d.json",
+  "parameterValues" : [ ]
+}
