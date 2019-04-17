@@ -1,4 +1,4 @@
-# ogavirt
+# trivago
 API automation tests + run results
 
 ## Technical stack:
