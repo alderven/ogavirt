@@ -1,7 +1,7 @@
 # ogavirt
 API automation tests + run results
 
-### Technical stack:
+## Technical stack:
 Programming language: [Python](https://www.python.org/)
 
 Test framework: [pytest](https://docs.pytest.org/en/latest/)
@@ -9,7 +9,11 @@ Test framework: [pytest](https://docs.pytest.org/en/latest/)
 Test report framework: [Yandex Allure](http://allure.qatools.ru/)
 
 
-### Test cases description + run results
+## Test cases description + run results
+
+[Test script](https://github.com/alderven/ogavirt/blob/master/test_api_booking_availability.py)
+
+[General results info](https://raw.githack.com/alderven/ogavirt/master/allure-report/#graph)
 
 №  | Test description                                                                                    | Hotel Id: 1 | Hotel Id: 2 | Hotel Id: 3 | Hotel Id: 4 
 ---|------------------------------------------------------------------------------------------------------|-------------|-------------|-------------|------------
@@ -28,7 +32,9 @@ Test report framework: [Yandex Allure](http://allure.qatools.ru/)
 13 | Check, that currency is a three-letter code of type string and fits to the requested one             | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/cd86ea5f59a8d741/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/783a7b6f246088b9/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/99d272b6faa89117/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/4d7e0d9a67d6c449/)
 14 | Check, that amount is a number equal or greater than 0                                               | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/52af39d4147c8051/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/98a4fe8393eab099/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/a463215a6af6b789/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/f59c98d5a96005d4/)
 15 | Check, that the start_date is before the end_date                                                    | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/d09000eeff2427e4/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/4af96614cc81ab01/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/a67149482b2fe4f6/) | [Passed](https://raw.githack.com/alderven/ogavirt/master/allure-report/index.html#suites/32a50fc77e91b1dba530529ef8521191/d00d71acb512a044/)
-### How to install
+
+
+## How to install
 1. Download and unzip [this project](https://github.com/alderven/ogavirt/archive/master.zip)
 1. Install [Python 3.6 or higher](https://www.python.org/downloads/)
 1. Install following Python libs:
@@ -38,13 +44,13 @@ Test report framework: [Yandex Allure](http://allure.qatools.ru/)
 1. Install [Allure Framework](https://docs.qameta.io/allure/latest/)
 
 
-### How to run tests
+## How to run tests
 Execute following command from the the test folder:
 ```
 python -m pytest --alluredir /full/path/to/report/folder
 ```
 
-### How to generate Allure report
+## How to generate Allure report
 Execute following command:
 ```
 allure serve /full/path/to/report/folder
