@@ -2,7 +2,7 @@
 API automation tests for "ogavirt" project
 
 ### Technical stack:
-Programming language: [python](https://www.python.org/)
+Programming language: [Python](https://www.python.org/)
 
 Test framework: [pytest](https://docs.pytest.org/en/latest/)
 
@@ -51,4 +51,4 @@ Execute following command:
 ```
 allure serve /full/path/to/report/folder
 ```
-See doc for more details
+See [doc](https://docs.qameta.io/allure/#_report_generation) for more details
